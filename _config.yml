@@ -31,7 +31,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Nick Schoch
-subtitle: subtitle
+subtitle: a simple presentation
 description: >- # this means to ignore newlines until "baseurl:"
   Life student and father. 
   I work in commercial real estate
@@ -41,7 +41,7 @@ avatar: assets/images/avatar.jpg
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "nschoch.github.io" # the base hostname & protocol for your site
+url: "https://nschoch.github.io" # the base hostname & protocol for your site
 
 # Social settings
 facebook_url:
