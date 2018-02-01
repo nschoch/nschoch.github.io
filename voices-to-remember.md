@@ -9,7 +9,7 @@ order: 3
 hide: false
 ---
 
-<i class="fas fa-camera-retro"></i>
+![microphone with subject](/assets/images/img-interview-subject.jpg)
 
 # What is this?
 
