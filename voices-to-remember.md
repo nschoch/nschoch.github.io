@@ -49,6 +49,6 @@ Great! There are a ton of ways to do this. I recommend reaching out to me over F
 Who do you want to interview him/her? I can do the interview using questions you provide or using some of my own questions. Alternatively, you can do the interview and I provide the equipment and editing.
 Would you be open to me interviewing you about why you want to interview the him/her? Sharing your interview with your interviewee helps them understand your objective and get comfortable with the interview concept.
 
-Message me on Facebook
+[Message me on Facebook](https://m.me/the.nick.schoch)
 
 Alternatively, you can shoot me an email at n.schoch at gmail.com
