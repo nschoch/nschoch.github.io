@@ -3,10 +3,12 @@ title: Voices to Remember
 subtitle: helping you capture the stories and wisdom from those that matter to you 
 permalink: /:title/
 layout: "page"
+cover-photo: assets/images/mic-monitor-headphones-pexels-photo-185030.jpeg
 icon: fa-microphone
 order: 3
-hide: true
+hide: false
 ---
+
 <i class="fas fa-camera-retro"></i>
 
 # What is this?
