@@ -10,7 +10,7 @@ hide: false
 
 <img src="/assets/images/img-interview-subject-small.jpg" alt="image of interview subject" width="100%" height="100%">
 
-<h1>What is this?</h1>
+## What is this?
 
 My name is Nick Schoch, and I listen to podcasts. Not occasionally but quite regularly. I listen while I’m driving, doing dishes, working out, listening to my wife, and... Maybe not that last one.
 
@@ -48,17 +48,23 @@ I would love to help you connect with and capture the stories from those that ma
 
 ![Smiling interviewer](/assets/images/img-sarah-smile-small.jpg)
 
-# I would like to set up an interview
-Great! There are a ton of ways to do this. I recommend reaching out to me over Facebook Messenger so we can talk more about how set up your interview. Some things to think about:
+## I would like to set up an interview
+Great! There are a ton of ways to do this. I recommend reaching out to me over Facebook Messenger so we can talk more about how set up your interview. 
 
-## Who are we interviewing?
+<a href="https://m.me/the.nick.schoch"><i class="fab fa-facebook-messenger"></i> Instant message me on Facebook to start the conversation</a>
+
+Alternatively, you can shoot me an email at nick@nickschoch.com
+
+Some things to think about:
+
+### Who are we interviewing?
 Who do you want to interview him/her? I can do the interview using questions you provide or using some of my own questions. Alternatively, you can do the interview and I provide the equipment and editing.
 Would you be open to me interviewing you about why you want to interview the him/her? Sharing your interview with your interviewee helps them understand your objective and get comfortable with the interview concept.
 
-## Where is your interviewee located?
+### Where is your interviewee located?
 
-<a href="https://m.me/the.nick.schoch"><i class="fab fa-facebook-messenger"></i>Instant message me on Facebook to start the conversation</a>
 
-Alternatively, you can shoot me an email at n.schoch at gmail.com
+
+
 
 ![Recorder](/assets/images/img-interview-recorder-small.jpg)
