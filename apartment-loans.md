@@ -8,7 +8,7 @@ order: 2
 hide: false
 ---
 
-# It isn't that hard #
+<h1>It isn't that hard</h1>
 
 Finding a loan for your apartment isn't that difficult. 
 
