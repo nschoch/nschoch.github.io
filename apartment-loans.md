@@ -4,7 +4,7 @@ subtitle: simplfying the financing process
 permalink: /apartment-loans/
 layout: "page"
 icon: fa-building
-order: 2
+order: 3
 hide: false
 ---
 
