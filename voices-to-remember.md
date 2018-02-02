@@ -3,13 +3,12 @@ title: Voices to Remember
 subtitle: helping you capture the stories and wisdom from those that matter to you 
 permalink: /voices-to-remember/
 layout: "page"
-cover-photo: assets/images/mic-monitor-headphones-pexels-photo-185030.jpeg
 icon: fa-microphone
 order: 3
 hide: false
 ---
 
-<img src="assets/images/img-interview-subject-small.jpg" alt="image of interview subject" width="100%" height="100%">
+<img src="/assets/images/img-interview-subject-small.jpg" alt="image of interview subject" width="100%" height="100%">
 
 # What is this? #
 
