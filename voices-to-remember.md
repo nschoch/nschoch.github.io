@@ -46,6 +46,7 @@ I worked for years in commercial real estate banking and always felt there had t
 
 I would love to help you connect with and capture the stories from those that matter to you. If you’re interested, please contact me and let’s preserve the stories that matter together!
 
+![Smiling interviewer](/assets/images/img-sarah-smile-small.jpg)
 
 # I would like to set up an interview
 Great! There are a ton of ways to do this. I recommend reaching out to me over Facebook Messenger so we can talk more about how set up your interview. Some things to think about:
@@ -54,6 +55,10 @@ Great! There are a ton of ways to do this. I recommend reaching out to me over F
 Who do you want to interview him/her? I can do the interview using questions you provide or using some of my own questions. Alternatively, you can do the interview and I provide the equipment and editing.
 Would you be open to me interviewing you about why you want to interview the him/her? Sharing your interview with your interviewee helps them understand your objective and get comfortable with the interview concept.
 
+## Where is your interviewee located?
+
 <a href="https://m.me/the.nick.schoch"><i class="fab fa-facebook-messenger"></i>Instant message me on Facebook to start the conversation</a>
 
 Alternatively, you can shoot me an email at n.schoch at gmail.com
+
+![Recorder](/assets/images/img-interview-recorder-small.jpg)
