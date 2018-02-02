@@ -9,9 +9,9 @@ order: 3
 hide: false
 ---
 
-![microphone with subject](/assets/images/img-interview-subject.jpg)
+<img src="assets/images/img-interview-subject-small.jpg" alt="image of interview subject" width="100%" height="100%">
 
-# What is this?
+# What is this? #
 
 My name is Nick Schoch, and I listen to podcasts. Not occasionally but quite regularly. I listen while I’m driving, doing dishes, working out, listening to my wife, and... Maybe not that last one.
 
