@@ -5,7 +5,7 @@ permalink: /apartment-loans/
 layout: "page"
 icon: fa-building
 order: 3
-hide: false
+hide: True
 ---
 
 ## It isn't that hard

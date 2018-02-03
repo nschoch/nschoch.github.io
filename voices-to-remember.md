@@ -16,7 +16,7 @@ My name is Nick Schoch, and I listen to podcasts. Not occasionally but quite reg
 
 My point is I relish podcasts, especially the 2-3 hour long-form interviews with interesting people. I started to realize I knew more about Richard Branson and Jamie Foxx’s story than I did some of my family and friends. That’s when I realized we all have a story to tell but no one is interviewing us to help us share our wisdom.
 
-Shortly after my grandmother died in 2011, one of my cousins sent around an mp3 of a few voicemails from grandma:.
+Shortly after my grandmother died in 2011, one of my cousins sent around an mp3 of a few voicemails from grandma:
 
 <blockquote>
   <p>This is your grandma just checkin’ in. They said you had called. Just checking in. I’m with you all the way and I love you. Grandma is always here for you. Okay, talk to you later.</p>
@@ -49,22 +49,33 @@ I would love to help you connect with and capture the stories from those that ma
 ![Smiling interviewer](/assets/images/img-sarah-smile-small.jpg)
 
 ## I would like to set up an interview
-Great! There are a ton of ways to do this. I recommend reaching out to me over Facebook Messenger so we can talk more about how set up your interview. 
+Great! The best way to get started is to reach out to me over Facebook Messenger so we can talk more about how set up your interview. 
 
 <a href="https://m.me/the.nick.schoch"><i class="fab fa-facebook-messenger"></i> Instant message me on Facebook to start the conversation</a>
 
 Alternatively, you can shoot me an email at nick@nickschoch.com
 
-Some things to think about:
+### What does it cost?
+I offer up to three hours of recording time with editing for $400 once you are satisfied with your audio recording. I charge for travel outside of San Diego County.
 
-### Who are we interviewing?
-Who do you want to interview him/her? I can do the interview using questions you provide or using some of my own questions. Alternatively, you can do the interview and I provide the equipment and editing.
-Would you be open to me interviewing you about why you want to interview the him/her? Sharing your interview with your interviewee helps them understand your objective and get comfortable with the interview concept.
+### That seems like a lot!
+* We often rationalize spending $200-500+ on professional photography sessions. This is for a handful of good photos. While photos hint at a story, it doesn't come close to hearing the story in the voice of your friend or loved one. 
+* Audio is a powerful medium. Hearing the pause in one's voice as they reflect on an emotional memory conveys so much more feeling than written word or still images. 
+* Setting aside the time for an interview allows you to ask the unanswered questions that aren't typical of our day-to-day small talk.
+* Your friends and loved ones often don't share their stories or perspectives without being prompted.
+* You can easily share what you learn in the interview with your descendants and preserve the wisdom.
+* Even if you never listen to the recording, the interview will leave a lasting experience that you will reflect on for years.
 
-### Where is your interviewee located?
+![Interview setup](/assets/images/img-interview-setup-small.jpg)
 
+### What about video recording?
+I do not offer video recording services. I find that video distracts from the interview. The interviewee feels pressured to "look good" and present well to the camera. In addition, many people act differently when are in front of the camera, looking into the void of the lens. For the listener, it is harder to sit down to watch a video, especially a long form video, than it is to listen to an audio file. Consider that you can listen to an audiobook while you drive but you can't watch a movie.
 
-
-
+### Some things to think about:
+* Who are we interviewing?
+* Where would you like to do the interview?
+* When would you like to do the interview? 
+* Do you want to do the interview or would you like me to interview them?
+* Would you want to do a "pre-interview" where I interview you to understand your intentions in interviewing your friend or loved one? Sharing this interview with them is a great way to prepare them for the interview and start the conversation.
 
 ![Recorder](/assets/images/img-interview-recorder-small.jpg)
