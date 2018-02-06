@@ -61,6 +61,7 @@ I offer up to three hours of recording time with editing for $400 once you are s
 ### That seems like a lot!
 * We often rationalize spending $200-500+ on professional photography sessions. This is for a handful of good photos. While photos hint at a story, it doesn't come close to hearing the story in the voice of your friend or loved one. 
 * Audio is a powerful medium. Hearing the pause in one's voice as they reflect on an emotional memory conveys so much more feeling than written word or still images. 
+* Spending more time with your interviewee lets you relax and get into the weeds. You won't have to gloss over the details that make the stories meaningful.
 * Setting aside the time for an interview allows you to ask the unanswered questions that aren't typical of our day-to-day small talk.
 * Your friends and loved ones often don't share their stories or perspectives without being prompted.
 * You can easily share what you learn in the interview with your descendants and preserve the wisdom.
