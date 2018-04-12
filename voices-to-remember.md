@@ -70,7 +70,7 @@ I offer up to three hours of recording time with editing for $400 once you are s
 ![Interview setup](/assets/images/img-interview-setup-small.jpg)
 
 ### What about video recording?
-I do not offer video recording services. I find that video distracts from the interview. The interviewee feels pressured to "look good" and present well to the camera. In addition, many people act differently when are in front of the camera, looking into the void of the lens. For the listener, it is harder to sit down to watch a video, especially a long form video, than it is to listen to an audio file. Consider that you can listen to an audiobook while you drive but you can't watch a movie.
+I do not offer video recording services. I find that video distracts from the interview. The interviewee feels pressured to "look good" and present well to the camera. In addition, many people act differently when in front of a camera, looking into the void of the lens. For the listener, it is harder to sit down to watch a video, especially a long form video, than it is to listen to an audio file. Consider that you can listen to an audiobook while you drive but you can't watch a movie.
 
 ### Some things to think about:
 * Who are we interviewing?
