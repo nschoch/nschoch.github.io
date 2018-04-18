@@ -18,3 +18,5 @@ Click <a href="/assets/pdfs/NicksApartmentFinancingHandbook20180209.pdf" target=
 <a href="https://m.me/the.nick.schoch" target="_blank" rel="noopener"><i class="fab fa-facebook-messenger"></i> Instant message me on Facebook</a> if you want to discuss financing for your apartment.
 
 Alternatively, you can shoot me an email. I'm at nick@nickschoch.com
+
+I don't have a staff, it's just me. I want to build lasting relationships with apartment investors. The buck stops with me, and I will work to earn your trust. Mortgage bankers (also known as brokers) charge hefty fees ranging from 0.50%-2.00%. My fee is 1% of the loan amount and you pay only if you close a loan with me. You'll pay a lot, but you'll get what you pay for.
