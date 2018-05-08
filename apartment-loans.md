@@ -17,6 +17,14 @@ Click <a href="/assets/pdfs/NicksApartmentFinancingHandbook20180209.pdf" target=
 
 <a href="https://m.me/the.nick.schoch" target="_blank" rel="noopener"><i class="fab fa-facebook-messenger"></i> Instant message me on Facebook</a> if you want to discuss financing for your apartment.
 
-Alternatively, you can shoot me an email. I'm at nick@nickschoch.com
+Alternatively, you can send me an email. I'm at <a href="mailto:nick@nickschoch.com?subject=Apartment loans">nick@nickschoch.com</a>
 
-I don't have a staff, it's just me. I want to build lasting relationships with apartment investors. The buck stops with me, and I will work to earn your trust. Mortgage bankers (also known as brokers) charge hefty fees ranging from 0.50%-2.00%. My fee is 1% of the loan amount and you pay only if you close a loan with me. You'll pay a lot, but you'll get what you pay for.
+I don't have staff, it's just me. I want to build lasting relationships with apartment investors. The buck stops with me, and I will work to earn your trust. Mortgage bankers (also known as brokers) charge hefty fees ranging from 0.50%-2.00%. My fee is 1% of the loan amount and you pay only if you close a loan with me. You'll pay a lot, but you'll get what you pay for.
+
+A good broker should provide value in many ways such as:
+* Eliminating the potential risk of dealing with a single lender
+* Providing a sold network of professionals, including accountants, appraisers, and attorneys that the broker works with on a regular basis
+* Helping a wise business person access the right financing, just as a wise business person wouldn't enter a courtroom without the right lawyer
+* Leveraging lender relationships to secure an accelerated processing of the loan application
+* Navigating the commercial lending world, similar to a sponsor in an investment deal
+
