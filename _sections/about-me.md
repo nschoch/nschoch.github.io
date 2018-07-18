@@ -10,6 +10,6 @@ order: 3
 
 Life student, husband, and father. I work in commercial real estate lending, providing debt to owners of apartments, retail, industrial, and office buildings  (<a href="https://www.linkedin.com/in/nicholasschoch" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i> LinkedIn</a>).
 
-San Diego native. I live in North Park with my wife and two children.
+San Diego native. I live in North Park with my wife and two (soon three) children.
 
 > "the biggest mistake, the one made by a huge number of people, is to have no philosophy of life at all." (<a href="http://www.amazon.com/Guide-Good-Life-Ancient-Stoic/dp/0195374614" target="_blank" rel="noopener">A Guide to the Good Life</a>)
