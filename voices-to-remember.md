@@ -12,7 +12,7 @@ hide: false
 
 ## What is this?
 
-My name is Nick Schoch, and I listen to podcasts. Not occasionally but quite regularly. I listen while I’m driving, doing dishes, working out, listening to my wife, and... Maybe not that last one.
+I listen to podcasts. Not occasionally but quite regularly. I listen while I’m driving, doing dishes, working out, listening to my wife, and... Maybe not that last one.
 
 My point is I relish podcasts, especially the 2-3 hour long-form interviews with interesting people. I started to realize I knew more about Richard Branson and Jamie Foxx’s story than I did some of my family and friends. That’s when I realized we all have a story to tell but no one is interviewing us to help us share our wisdom.
 

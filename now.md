@@ -5,7 +5,7 @@ permalink: /now/
 layout: "page"
 icon: fa-step-forward
 order: 2
-hide: false
+hide: true
 ---
 
 I’m in San Diego, and I spend most of my time on these things (in order of time spent):
