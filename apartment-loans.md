@@ -10,13 +10,13 @@ hide: False
 
 ## Complexity simplified
 
-Finding a loan for your apartment can seem daunting initially. There are many potential lenders, numerous structural terms, and complicated loan documents. I know about this because I worked in commercial real estate lending for a large regional bank for 14-years. I have seen what happens when a property owner is unprepared or inexperienced, and I want to help apartment owners find the right loans for their properties.  
+Finding a loan for your apartment can seem daunting initially. There are many potential lenders, numerous structural terms, and complicated loan documents. I know about this because I worked in commercial real estate lending for a large regional bank for 14-years. I have seen what happens when a property owner is unprepared or inexperienced and it isn't good. I went out on my own to help fix this.
 
 ## Do it yourself...
 
 To help you get started, I wrote a short apartment financing handbook to help you understand and become more comfortable with the process. 
 
-Click **<a href="/assets/pdfs/NicksApartmentFinancingHandbook20180209.pdf" target="_blank" onClick="ga('send', 'event', { eventCategory: 'download', eventAction: 'click', eventLabel: 'apartment-financing-handbook', eventValue: 1});">here</a>** to download my DIY apartment finance handbook.
+Click <strong><a href="/assets/pdfs/NicksApartmentFinancingHandbook20180209.pdf" target="_blank" onClick="ga('send', 'event', { eventCategory: 'download', eventAction: 'click', eventLabel: 'apartment-financing-handbook', eventValue: 1});">here</a></strong> to download my DIY apartment finance handbook.
 
 ## ...or work with me
 If you still need help, contact me and we'll talk about your needs.
