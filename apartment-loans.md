@@ -27,4 +27,4 @@ If you still need help, contact me and we'll talk about your needs.
 
 I don't have staff, it's just me. I want to build lasting relationships with apartment investors. The buck stops with me, and I will work to earn your trust. Mortgage bankers (also known as brokers) charge hefty fees ranging from 0.50%-2.00%. My fee is 1% of the loan amount and you pay only if you close a loan with me. If a lender provides a rebate or referral payment, I will credit that back to you.
 
-**You'll pay a lot, but you'll get more than you pay for.**
+<a href="https://seths.blog/2018/07/youll-pay-a-lot-but-youll-get-more-than-you-paid-for/" target="_blank">**You'll pay a lot, but you'll get more than you pay for.**</a>
