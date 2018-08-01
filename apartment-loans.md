@@ -32,6 +32,7 @@ I don't have staff, it's just me. I want to build lasting relationships with apa
 
 A loan broker should do all of the following for you:
 * Understand your wealth strategy and how commercial real estate helps you meet your goals
+* Demonstrate an expertise in the type of financing you need
 * Develop a plan to finance your property with a loan structure that fits your goals
 * Update you on current commercial real estate trends and how they affect you
 * Explain the financing process and set your expectations accordingly
