@@ -16,9 +16,9 @@ Finding a loan for your apartment can seem daunting initially. There are many po
 
 To help you get started, I wrote a short apartment financing handbook to help you understand and become more comfortable with the process. In addition, I created a few straight forward tools to help you.
 
-* <strong><a href="https://docs.google.com/document/d/e/2PACX-1vR-AQyEzKbc6okfRJJSVMBFcuciQql71sj8_aU9hbAvW_WKOVm2mLSZ_9Ze0LdBxhqNQW7OsA_vzlfI/pub" target="_blank">Nick's Apartment Financing Handbook</a> (Web; <a href="https://docs.google.com/document/d/1Hh88uulr4cx1z96cWSVhvVIhE5TzPA1JME4xABIYeq8/export?format=pdf" target="_blank">PDF version</a>)</strong>
+* <strong><a href="https://docs.google.com/document/d/1Hh88uulr4cx1z96cWSVhvVIhE5TzPA1JME4xABIYeq8/export?format=pdf" target="_blank">Nick's Apartment Financing Handbook</a></strong>
 * <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSsN0SBMozjRHXJiOk_Qn794slvOl66mMHkNei_vrdeZfUj7oFkD_PBIBmdTIWaWqsdVI64ZUNISFLt/pub?output=xlsx" target="_blank">Loan Sizing Tool</a> (Excel xlsx)
-* <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTp91OvLyPWPiq4ZiAb38sD3_tPNuHVQzKzS032WbateJnsG7SXpd9Pk1gPmXuiXGQBVltjDC4j92Ip/pub?output=xlsx" target="_blank">Lender Proposal Request (RFP) Template</a> (Excel xlsx)
+* <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQXrP0GSoasx_ALPOFdpapvlMiNtOy43f0bKbzw-NJ8jilX_RU6QmRf1SXKHtTvLCByaMs3WxVjXYGN/pub?output=xlsx">Lender Proposal Request (RFP) Template</a> (Excel xlsx)
 
 ## ...or work with me
 If you still need help, contact me and we'll talk about your needs.
