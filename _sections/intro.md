@@ -13,6 +13,6 @@ order: 1
 </header>
 
 <footer>
-  <a href="/apartment-loans/" class="button scrolly">Get help financing your apartment</a><br/><br/>
+  <a href="/apartment-loans/" class="button scrolly">Click here for my apartment loan guide and tools</a><br/><br/>
   <a href="#me-in-10-seconds" class="button scrolly">Scroll down for more about me</a>
 </footer>
