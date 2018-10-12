@@ -5,7 +5,7 @@ permalink: /book-notes/
 layout: "page"
 icon: fa-book
 order: 4
-hide: false
+hide: true
 ---
 
 You can see the books I have read along with my notes on **[Goodreads](https://www.goodreads.com/nschoch)**.
