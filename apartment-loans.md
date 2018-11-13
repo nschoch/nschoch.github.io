@@ -18,7 +18,7 @@ To help you get started, I wrote a short apartment financing handbook to help yo
 
 ### Tools
 
-* <strong><a href="https://docs.google.com/document/d/1Hh88uulr4cx1z96cWSVhvVIhE5TzPA1JME4xABIYeq8/export?format=pdf" target="_blank">Nick's Apartment Financing Handbook</a></strong>
+* <strong><a href="https://docs.google.com/document/d/1Hh88uulr4cx1z96cWSVhvVIhE5TzPA1JME4xABIYeq8/export?format=pdf" target="_blank">Nick's Apartment Financing Handbook</a></strong> (also available on <a href="http://a.co/d/5D3XQEC" target="_blank">Amazon Kindle</a>)
 * <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQXrP0GSoasx_ALPOFdpapvlMiNtOy43f0bKbzw-NJ8jilX_RU6QmRf1SXKHtTvLCByaMs3WxVjXYGN/pub?output=xlsx">Lender Proposal Request (RFP) Template</a> (Excel xlsx)
 * <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSsN0SBMozjRHXJiOk_Qn794slvOl66mMHkNei_vrdeZfUj7oFkD_PBIBmdTIWaWqsdVI64ZUNISFLt/pub?output=xlsx" target="_blank">Loan Sizing Tool</a> (Excel xlsx)
 * <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vS5Wl6dQEINb2xBLL4Oieg0VWDtDWQcpu64t0WUX7v8MFkdyGXWvKJ7PnV2D7oRcZ05z48qiq_bBojB/pub?output=xlsx" target="_blank">Return on Equity Analysis</a> (Excel xslx)
