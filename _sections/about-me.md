@@ -4,7 +4,7 @@ icon: fa-user
 order: 3
 ---
 
-![family photo](/assets/images/family-photo-small.jpg)
+![family photo](/assets/images/family-2018.jpg)
 
 I am a San Diego native that lives in North Park with my wife and three children.
 

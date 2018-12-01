@@ -10,15 +10,17 @@ hide: False
 
 ## Complexity simplified
 
-Finding a loan for your apartment can seem daunting. There are many potential lenders, numerous structural terms, and complicated loan documents. I know this because I worked in commercial real estate lending for a large regional bank for 14-years. I have seen what happens when a property owner is unprepared or inexperienced and it isn't good. I went out on my own to help fix this.
+Finding a loan for your apartment can seem daunting. There are many potential lenders, numerous structural terms, and complicated loan documents. I know this because I worked in commercial real estate lending for a large regional bank for 14-years. I have seen what happens when a property owner is unprepared or inexperienced and it isn't good. I left banking to help owners get the loans they deserve.
 
 ## Do it yourself...
 
-To help you get started, I wrote a short apartment financing handbook to help you understand and become more comfortable with the process. In addition, I created a few straight forward tools to help you.
+To help you get started, I wrote a short apartment financing handbook to help you understand and become more comfortable with the process. Combine this handbook with the calculators and tools below and you'll be on your way to handling your own apartment financing.
+
+I encourage you to read my <a href="/articles/">articles</a> for more information.
 
 ### Tools
 
-* <strong><a href="https://docs.google.com/document/d/1Hh88uulr4cx1z96cWSVhvVIhE5TzPA1JME4xABIYeq8/export?format=pdf" target="_blank">Nick's Apartment Financing Handbook</a></strong> (also available on <a href="http://a.co/d/5D3XQEC" target="_blank">Amazon Kindle</a>)
+* <strong><a href="/assets/pdfs/NicksApartmentFinancingHandbook20181201.pdf" target="_blank">Nick's Apartment Financing Handbook (1Dec2018)</a></strong> (also available on <a href="http://a.co/d/5D3XQEC" target="_blank">Amazon Kindle</a>)
 * <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQXrP0GSoasx_ALPOFdpapvlMiNtOy43f0bKbzw-NJ8jilX_RU6QmRf1SXKHtTvLCByaMs3WxVjXYGN/pub?output=xlsx">Lender Proposal Request (RFP) Template</a> (Excel xlsx)
 * <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSsN0SBMozjRHXJiOk_Qn794slvOl66mMHkNei_vrdeZfUj7oFkD_PBIBmdTIWaWqsdVI64ZUNISFLt/pub?output=xlsx" target="_blank">Loan Sizing Tool</a> (Excel xlsx)
 * <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vS5Wl6dQEINb2xBLL4Oieg0VWDtDWQcpu64t0WUX7v8MFkdyGXWvKJ7PnV2D7oRcZ05z48qiq_bBojB/pub?output=xlsx" target="_blank">Return on Equity Analysis</a> (Excel xslx)

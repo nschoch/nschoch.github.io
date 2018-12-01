@@ -4,7 +4,7 @@ subtitle: helping you capture the stories and wisdom from those that matter to y
 permalink: /voices-to-remember/
 layout: "page"
 icon: fa-microphone
-order: 3
+order: 4
 hide: false
 ---
 
