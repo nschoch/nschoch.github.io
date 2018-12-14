@@ -49,11 +49,7 @@ I would love to help you connect with and capture the stories from those that ma
 ![Smiling interviewer](/assets/images/img-sarah-smile-small.jpg)
 
 ## I would like to set up an interview
-Great! The best way to get started is to reach out to me over Facebook Messenger so we can talk more about how set up your interview. 
-
-<a href="https://m.me/the.nick.schoch"><i class="fab fa-facebook-messenger"></i> Instant message me on Facebook to start the conversation</a>
-
-Alternatively, you can shoot me an email at nick@nickschoch.com
+Great! The best way to get started is to call or text me at 760-201-6758 or email me at <a href="mailto:nick@nickschoch.com?subject=Voices to Remember" target="_blank" rel="noopener">nick@nickschoch.com</a>.
 
 ### What does it cost?
 I offer up to three hours of recording time with editing for $400 once you are satisfied with your audio recording. I charge for travel outside of San Diego County.
@@ -78,5 +74,8 @@ I do not offer video recording services. I find that video distracts from the in
 * When would you like to do the interview? 
 * Do you want to do the interview or would you like me to interview them?
 * Would you want to do a "pre-interview" where I interview you to understand your intentions in interviewing your friend or loved one? Sharing this interview with them is a great way to prepare them for the interview and start the conversation.
+
+## Don't let another year slip by!
+Start the conversation by calling or texting me at 760-201-6758. In addition, you can email me at <a href="mailto:nick@nickschoch.com?subject=Voices to Remember" target="_blank" rel="noopener">nick@nickschoch.com</a>.
 
 ![Recorder](/assets/images/img-interview-recorder-small.jpg)
