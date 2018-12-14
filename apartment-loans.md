@@ -1,6 +1,6 @@
 ---
 title: Apartment loans
-subtitle: simplfying the financing process
+subtitle: simplifying the financing process
 permalink: /apartment-loans/
 layout: "page"
 icon: fa-building
@@ -8,7 +8,7 @@ order: 3
 hide: False
 ---
 
-## Complexity simplified
+## Simplifying the financing process
 
 Finding a loan for your apartment can seem daunting. There are many potential lenders, numerous structural terms, and complicated loan documents. I know this because I worked in commercial real estate lending for a large regional bank for 14-years. I have seen what happens when a property owner is unprepared or inexperienced and it isn't good. Worse, many of the commercial mortgage brokers that you pay to help are also paid by lenders to bring them business. This introduces a conflict of interest that may cost you. Sometimes these arrangements are not disclosed.
 
