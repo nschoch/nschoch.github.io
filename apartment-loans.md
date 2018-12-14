@@ -1,6 +1,6 @@
 ---
 title: Apartment loans
-subtitle: simplifying the financing process
+subtitle: Commercial mortgage brokering for apartment investors
 permalink: /apartment-loans/
 layout: "page"
 icon: fa-building
