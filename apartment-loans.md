@@ -23,9 +23,11 @@ I encourage you to read my <a href="/articles/">articles</a> for more informatio
 ### Tools
 
 * <strong><a href="/assets/pdfs/NicksApartmentFinancingHandbook20190102.pdf"><i class="fa fa-book" aria-hidden="true"></i> Nick's Apartment Financing Handbook (2Jan2019)</a></strong> (also available on <a href="http://a.co/d/5D3XQEC" target="_blank">Amazon Kindle <i class="fas fa-external-link-alt" aria-hidden="true"></i></a>)
-* <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQXrP0GSoasx_ALPOFdpapvlMiNtOy43f0bKbzw-NJ8jilX_RU6QmRf1SXKHtTvLCByaMs3WxVjXYGN/pub?output=xlsx">Lender Proposal Request (RFP) Template</a> (Excel xlsx)
-* <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSsN0SBMozjRHXJiOk_Qn794slvOl66mMHkNei_vrdeZfUj7oFkD_PBIBmdTIWaWqsdVI64ZUNISFLt/pub?output=xlsx" target="_blank">Loan Sizing Tool</a> (Excel xlsx)
-* <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vS5Wl6dQEINb2xBLL4Oieg0VWDtDWQcpu64t0WUX7v8MFkdyGXWvKJ7PnV2D7oRcZ05z48qiq_bBojB/pub?output=xlsx" target="_blank">Return on Equity Analysis</a> (Excel xslx)
+* <a href="/assets/worksheets/Request-For-Proposal-Template.xlsx">Lender Proposal Request (RFP) Template</a> (Excel xlsx)
+* <a href="/assets/worksheets/Maximum-Loan-Amount.xlsx">Loan Sizing Tool</a> (Excel xlsx)
+* <a href="/assets/worksheets/ROE-Analysis.xlsx">Return on Equity Analysis</a> (Excel xslx)
+* <a href="/assets/worksheets/Portfolio-Purchasing-Power.xlsx">Portfolio Purchasing Power</a> (Excel xslx)
+* <a href="/assets/worksheets/5yr-IRR-Analysis.xlsx">5-year IRR Analysis</a> (Excel xslx)
 
 ## ...or work with me
 If you still need help, contact me and we'll talk about your needs.
