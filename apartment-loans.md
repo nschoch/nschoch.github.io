@@ -22,7 +22,7 @@ I encourage you to read my <a href="/articles/">articles</a> for more informatio
 
 ### Tools
 
-* <strong><a href="/assets/pdfs/NicksApartmentFinancingHandbook20190102.pdf"><i class="fa fa-book" aria-hidden="true"></i> Nick's Apartment Financing Handbook (2Jan2019)</a></strong> (also available on <a href="http://a.co/d/5D3XQEC" target="_blank">Amazon Kindle <i class="fas fa-external-link-alt" aria-hidden="true"></i></a>)
+* <strong><a href="/assets/pdfs/NicksApartmentLoanHandbook20190204.pdf"><i class="fa fa-book" aria-hidden="true"></i> Nick's Apartment Loan Handbook (2Feb2019)</a></strong> (also available on <a href="http://a.co/d/5D3XQEC" target="_blank">Amazon Kindle <i class="fas fa-external-link-alt" aria-hidden="true"></i></a>)
 * <a href="/assets/worksheets/Request-For-Proposal-Template.xlsx">Lender Proposal Request (RFP) Template</a> (Excel xlsx)
 * <a href="/assets/worksheets/Maximum-Loan-Amount.xlsx">Loan Sizing Tool</a> (Excel xlsx)
 * <a href="/assets/worksheets/ROE-Analysis.xlsx">Return on Equity Analysis</a> (Excel xslx)
