@@ -12,6 +12,8 @@ menu_settings:
       url: '/apartment-loans/'
     - title: 'Articles'
       url: '/articles/'
+    - title: 'Resources'
+      url: '/project/'
     - title: 'About'
       url: '/about'
     - title: 'Contact'
