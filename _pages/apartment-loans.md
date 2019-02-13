@@ -1,6 +1,6 @@
 ---
 title: Apartment loans
-subtitle: Commercial mortgage brokering and loan advisor service
+subtitle: Commercial mortgage brokering and loan advising
 description: Get guidance from institutional experience without the institutional process. I keep the process straightforward and understandable for investors that want to remain focused on growing their portfolios.
 featured_image: /images/daniel-dinuzzo-676370-unsplash.jpg
 permalink: /apartment-loans/
