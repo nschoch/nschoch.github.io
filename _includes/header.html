@@ -1,53 +1,32 @@
-{%- comment -%}
-  Include vars:
-  scrolly_nav
-{%- endcomment -%}
+<header class="header">
 
-<!-- Header -->
-<script>
-  fbq('track', 'ViewContent');
-</script>
+	<div class="wrap">
 
-<!-- Google Tag Manager (noscript) -->
-{%- if site.google_analytics and jekyll.environment == 'production' -%}
-  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N72M2N3"
-  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-{%- endif -%}
-<!-- End Google Tag Manager (noscript) -->
+		{% if site.data.settings.header_settings.logo_image %}
+		<a href="/" class="header__logo">
+			<img src="{{ site.data.settings.header_settings.logo_image }}" class="header__logo__img">
+		</a>
+		{% else %}
+		<a href="/" class="header__title">
+			<img src="/images/avatar.jpg" alt="Nick Schoch's picture" class="avatar">{{ site.data.settings.basic_settings.site_title }}
+		</a>
+		{% endif %}
 
-<!-- Load Facebook SDK for JavaScript -->
-<div id="fb-root"></div>
-<script>
-  window.fbAsyncInit = function() {
-    FB.init({
-      xfbml            : true,
-      version          : 'v3.2'
-    });
-  };
+		<div class="menu">
+			<div class="menu__toggle js-menu-toggle">
+				<div class="menu__toggle__icon"><span></span></div>
+			</div>
+			<div class="menu__wrap">
+				<ul class="menu__list">
+					{% for item in site.data.settings.menu_settings.menu_items %}
+					<li class="menu__list__item">
+						<a href="{{ item.url }}" class="menu__list__item__link">{{ item.title }}</a>
+					</li>
+					{% endfor %}
+				</ul>
+			</div>
+		</div>
 
-  (function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
+	</div>
 
-<!-- Your customer chat code -->
-<div class="fb-customerchat"
-  attribution=setup_tool
-  page_id="2081857801898691"
-  logged_in_greeting="Hi! How can I help you?"
-  logged_out_greeting="Hi! How can I help you?">
-</div>
-
-<div id="header">
-  <div class="top">
-    {%- include logo.html -%}
-    {%- include nav.html section_items=include.scrolly_nav -%}
-  </div>
-  <div class="bottom">
-    {%- include social_icons.html -%}
-  </div>
-  
-</div>
+</header>
