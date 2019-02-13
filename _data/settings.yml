@@ -9,7 +9,7 @@ header_settings:
 menu_settings:
   menu_items:
     - title: 'Apartment Loans'
-      url: '/apartment-loans'
+      url: '/apartment-loans/'
     - title: 'Articles'
       url: '/articles/'
     - title: 'About'
