@@ -15,9 +15,9 @@ menu_settings:
     - title: 'Resources'
       url: '/project/'
     - title: 'About'
-      url: '/about'
+      url: '/about/'
     - title: 'Contact'
-      url: '/contact'
+      url: '/contact/'
 
 footer_settings:
   footer_tagline: Independent commercial mortgage broker
