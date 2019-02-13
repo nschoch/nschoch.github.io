@@ -3,6 +3,7 @@ title: Contact
 subtitle: I'm easy to get in touch with
 description: You can complete the form below or send an email
 featured_image: /images/demo/contact.jpg
+permalink: /contact/
 ---
 <i class="fas fa-phone" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;Call or text me (760) 201-6758
 
