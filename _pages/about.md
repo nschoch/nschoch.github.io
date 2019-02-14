@@ -3,6 +3,7 @@ title: About Nick
 subtitle: Independent commercial mortgage broker with 14-years of CRE lending experience
 description: This page describes my background
 featured_image: /images/daniel-dinuzzo-676370-unsplash.jpg
+permalink: /about/
 ---
 
 ## Me in 10 seconds
