@@ -15,7 +15,7 @@ menu_settings:
     - title: 'Resources'
       url: '/project/'
     - title: 'About'
-      url: '/about/'
+      url: '/about/index.html'
     - title: 'Contact'
       url: '/contact/'
 
