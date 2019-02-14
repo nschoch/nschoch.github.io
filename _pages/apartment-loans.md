@@ -9,7 +9,7 @@ feature_page: true
 
 ## Simplifying the financing process
 
-Finding a loan for your apartment can seem daunting. There are many potential lenders, numerous structural terms, and complicated loan documents. I know this because I worked in commercial real estate lending for a large regional bank for 14-years. I have seen what happens when a property owner is unprepared or inexperienced and it isn't good. Worse, many of the commercial mortgage brokers that you pay to help are also paid by lenders to bring them business. This introduces a conflict of interest that may cost you. Sometimes these arrangements are not disclosed.
+Finding a loan for your apartment can be daunting. There are many potential lenders, numerous structural terms, and complicated loan documents. I know this because I worked in commercial real estate lending for a large regional bank for 14-years. I have seen what happens when a property owner is unprepared or inexperienced and it isn't good. Worse, many of the commercial mortgage brokers that you pay to help are also paid by lenders to bring them business. This introduces a conflict of interest that may cost you. Sometimes these arrangements are not disclosed.
 
 I left banking to earn the trust of apartment investors and help them get the loans they deserve whether they do it themselves or they hire me to help.
 
