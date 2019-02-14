@@ -19,7 +19,7 @@ Should you write-off almost anything? Maybe not if you want to refinance your pr
 
 The table below shows how the math in approach 2 works with an example that assumes an additional 10% in discretionary operating expenses.
 
-![table](/assets/images/article-the-risk-in-writing-off-almost-anything-table1.PNG "table")
+![table](/images/article-the-risk-in-writing-off-almost-anything-table1.PNG "table")
 
 As mentioned above, you lose about $13 for every $1 of additional expense.
 

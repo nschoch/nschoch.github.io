@@ -86,6 +86,12 @@
 	/></noscript>
 	<!-- End Facebook Pixel Code -->
 	
+	<!-- Begin Crisp Chat code -->
+	
+	<script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="126e7a1e-3034-4ec8-a437-c7cb601965fd";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
+	
+	<!-- End Crisp Chat Code -->
+	
 	<!-- Begin iubenda privacy code -->
 	
   <!-- Cookie notice -->
@@ -109,33 +115,6 @@
 
 
 <body class="loading{% if site.data.settings.advanced_settings.ajax_loading == true %} ajax-loading{% endif %}" data-site-url="{{ site.url }}" data-page-url="{{ page.url | replace: 'index.html', '' }}">
-
-	<!-- Facebook Chat Load Facebook SDK for JavaScript -->
-	<div id="fb-root"></div>
-	<script>
-	  window.fbAsyncInit = function() {
-		FB.init({
-		  xfbml            : true,
-		  version          : 'v3.2'
-		});
-	  };
-
-	  (function(d, s, id) {
-	  var js, fjs = d.getElementsByTagName(s)[0];
-	  if (d.getElementById(id)) return;
-	  js = d.createElement(s); js.id = id;
-	  js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
-	  fjs.parentNode.insertBefore(js, fjs);
-	}(document, 'script', 'facebook-jssdk'));</script>
-
-	<!-- Your customer chat code -->
-	<div class="fb-customerchat"
-	  attribution=setup_tool
-	  page_id="2081857801898691"
-	  logged_in_greeting="Hi! How can I help you?"
-	  logged_out_greeting="Hi! How can I help you?">
-	</div>
-	<!-- End Facebook Chat -->
 
 
 	{% include header.html %}

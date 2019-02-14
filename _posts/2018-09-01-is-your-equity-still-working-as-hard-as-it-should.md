@@ -28,7 +28,7 @@ Fast forwarding to September 2018, let’s see how things look:
 
 Let’s organize these figures into a convenient table:
 
-![table](/assets/images/article-is-your-equity-working-as-hard-as-it-should-table1.PNG "table")
+![table](/images/article-is-your-equity-working-as-hard-as-it-should-table1.PNG "table")
 
 **This is good. Fantastic, even.** Looking back, your capital worked hard for you with your equity growing at a compounded rate of 12% per year.
 
