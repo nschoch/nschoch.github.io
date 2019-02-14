@@ -1,7 +1,7 @@
 ---
 title: Privacy Policy
-subtitle: Your message was sent successfully.
-description: A sleek, modern Jekyll theme for personal websites.
+subtitle: How I manage your data
+description: How I manage your data
 featured_image: /images/dayne-topkin-78982-unsplash2.png
 permalink: /privacy-policy/
 ---
