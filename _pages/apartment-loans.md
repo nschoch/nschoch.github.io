@@ -1,7 +1,7 @@
 ---
 title: Apartment loans
 subtitle: Commercial mortgage brokering and loan advising
-description: Get guidance from institutional experience without the institutional process. I keep the process straightforward and understandable for investors that want to remain focused on growing their portfolios.
+description: Get guidance from institutional experience without the institutional process. I keep the process straightforward and understandable for investors that want to remain focused on growing their portfolios. Free portfolio and property evaluation. It doesn't cost you anything to work with me until I help you close a loan.
 featured_image: /images/daniel-dinuzzo-676370-unsplash.jpg
 permalink: /apartment-loans/
 feature_page: true
@@ -25,7 +25,9 @@ To help you get started, I wrote a short apartment financing handbook to help yo
 
 
 ## ...or work with me
-If you still need help, contact me and we'll talk about your needs.
+I'm happy to answer your questions and help you build a strategy to finance your purchase or refinance of commercial real estate. <strong>It's free and you don't pay anything unless I help you close a loan.</strong>
+
+Contact me and we'll talk about your needs.
 
 * <i class="fas fa-phone" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;Call or text me (760) 201-6758
 * <i class="fas fa-envelope" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;Email me at <a href="mailto:nick@nickschoch.com?subject=Apartment Loan" target="_blank" rel="noopener">nick@nickschoch.com</a>
@@ -44,7 +46,11 @@ A loan broker should do all of the following for you:
 * Translate banking jargon into language you understand
 * Advocate on behalf of you and your property to get you the best terms from lenders
 
-<a href="https://seths.blog/2018/07/youll-pay-a-lot-but-youll-get-more-than-you-paid-for/" target="_blank">**You'll pay a lot, but you'll get more than you pay for.**</a>
+<a href="https://seths.blog/2018/07/youll-pay-a-lot-but-youll-get-more-than-you-paid-for/" target="_blank">You'll pay a lot, but you'll get more than you pay for.</a>
+
+#### What about other property types like manufactured housing communities, retail, industrial, office, or others?
+
+I have years of experience lending on these property types from my career at a large regional bank. If you would like my perspective on your non-apartment property, please contact me. 
 
 ## Mailing list
 
