@@ -12,7 +12,7 @@ menu_settings:
       url: '/apartment-loans/'
     - title: 'Articles'
       url: '/articles/'
-      title: 'Free Guide'
+    - title: 'Free Guide'
       url: '/project/apartment-handbook'
     - title: 'Free Tools'
       url: '/project/calculators-tools'
