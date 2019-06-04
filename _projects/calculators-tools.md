@@ -21,4 +21,5 @@ The tools are available for free download below as Microsoft Excel files. If you
 |  <a href="/assets/worksheets/Portfolio-Purchasing-Power.xlsx" class="js-no-ajax">Portfolio Purchasing Power</a> | Use this tool to estimate how much additional commercial real estate you can purchase based on your implied portfolio equity using market metrics.|
 | <a href="/assets/worksheets/5yr-IRR-Analysis.xlsx" class="js-no-ajax">5-year IRR Analysis</a> | Use this calculator to estimate the 5-year rate of return (IRR) for a property investment.|
 | <a href="/assets/worksheets/RealEstateScheduleTemplate.xlsx" class="js-no-ajax">Schedule of Real Estate Template</a> | Provide this completed worksheet to your lender so they can easily analyze your portfolio of properties.|
+| <a href="/assets/worksheets/RefinancingPaymentComparison.xlsx" class="js-no-ajax">Refinancing Payment Comparison</a> | Use this to compare your cash flow with your current loan to two hypothetical refinance scenarios.|
 
