@@ -1,12 +1,12 @@
 ---
-title: 'Financing Your Property in 7 Steps'
+title: 'Financing Your Apartment in 7 Steps'
 date: 2019-07-02 00:00:00
 description: The easiest loans are permanent mortgages on stabilized multifamily properties, especially if it is a low leverage request (loan-to-value no greater than 60% and debt service coverage of at least 1.30x). If your loan request looks like that, lenders will be eager to lend on your property. This makes the job of finding a loan much easier. So easy that you may not need a commercial mortgage broker’s assistance to place your loan. If you’re interested in do-it-yourself financing, here are the basic steps of the process to follow. 
 featured_image: '/images/hopscotch-3878608_1280.jpg'
 ---
 <small>Image credit pixabay</small>
 
-<a href="/assets/pdfs/201907-FinancingYourPropertyIn7Steps.pdf"  class="js-no-ajax"><i class="fas fa-file-pdf"></i> Printable PDF</a>
+<a href="/assets/pdfs/201907-FinancingYourApartmentIn7Steps.pdf"  class="js-no-ajax"><i class="fas fa-file-pdf"></i> Printable PDF</a>
 
 
 As a lender, I underwrote numerous properties. The easiest loans are permanent mortgages on stabilized multifamily properties, especially if it is a low leverage request (loan-to-value no greater than 60% and debt service coverage of at least 1.30x). If your loan request looks like that, lenders will be eager to lend on your property. This makes the job of finding a loan much easier. So easy that you may not need a commercial mortgage broker’s assistance to place your loan. If you’re interested in do-it-yourself financing, below are the basic steps of the process to follow.
