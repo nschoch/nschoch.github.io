@@ -33,7 +33,9 @@
 	<meta property="og:title" content="{% if page.url == "/" %}{{ site.data.settings.basic_settings.site_title }} – {{ page.title }}{% else %}{{ page.title }} – {{ site.data.settings.basic_settings.site_title }}{% endif %}" />
 	<meta property="og:description" content="{{ page.description }}" />
 	<meta property="og:image" content="{{ site.url }}{{ page.featured_image }}" />
-
+	<!-- Javascript Assets -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	<script src="/js/personal-min.js"></script>
 	{% if site.data.settings.font_settings.font_embed %}
 	<!-- Font Embed Code -->
 	{{ site.data.settings.font_settings.font_embed }}
@@ -58,33 +60,45 @@
 	{{ site.data.settings.advanced_settings.analytics_code }}
 	{% endif %}
 	
-	<!-- Google Tag Manager -->
-	{%- if site.google_analytics and jekyll.environment == 'production' -%}
-	{%- endif -%}
+	<!-- Do Not Track Determination-->
 	
+	<script>
+		var dnt = navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack;
+		var doNotTrack = true;
+		if (dnt != "1" && dnt != "yes") {
+			doNotTrack = false;
+		} else {
+			console.debug("Respecting Do-Not-Track, not collecting analytics.");
+		}
+	</script>
+
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-113861429-1"></script>
 	<script>
-	  window.dataLayer = window.dataLayer || [];
-	  function gtag(){dataLayer.push(arguments);}
-	  gtag('js', new Date());
+	  if (doNotTrack == false) {
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
 
-	  gtag('config', 'UA-113861429-1');
+			gtag('config', 'UA-113861429-1');
+		}
 	</script>
 	<!-- End Google Tag Manager -->
 		  
 	<!-- Facebook Pixel Code -->
 	<script>
-	  !function(f,b,e,v,n,t,s)
-	  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-	  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-	  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-	  n.queue=[];t=b.createElement(e);t.async=!0;
-	  t.src=v;s=b.getElementsByTagName(e)[0];
-	  s.parentNode.insertBefore(t,s)}(window, document,'script',
-	  'https://connect.facebook.net/en_US/fbevents.js');
-	  fbq('init', '238443993433458');
-	  fbq('track', 'PageView');
+		if (doNotTrack == false) {
+			!function(f,b,e,v,n,t,s)
+			{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+			n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+			if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+			n.queue=[];t=b.createElement(e);t.async=!0;
+			t.src=v;s=b.getElementsByTagName(e)[0];
+			s.parentNode.insertBefore(t,s)}(window, document,'script',
+			'https://connect.facebook.net/en_US/fbevents.js');
+			fbq('init', '238443993433458');
+			fbq('track', 'PageView');
+		}
 	</script>
 	<noscript><img height="1" width="1" style="display:none"
 	  src="https://www.facebook.com/tr?id=238443993433458&ev=PageView&noscript=1"
@@ -96,19 +110,19 @@
 	<script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="126e7a1e-3034-4ec8-a437-c7cb601965fd";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
 	
 	<!-- End Crisp Chat Code -->
-	
-	<!-- Begin iubenda privacy code -->
-	
-  <!-- Cookie notice -->
-	  <script type="text/javascript">
-	  window.dataLayer = window.dataLayer || [];
-	  dataLayer.push({
-		'event': 'iubenda_consent_given'
-		});
-	  </script>
-	<style type="text/css"> #iubenda-cs-banner { bottom: 0px !important; left: 0px !important; position: fixed !important; width: 100% !important; z-index: 99999998 !important; background-color: black; } .iubenda-cs-content { display: block; margin: 0 auto; padding: 20px; width: auto; font-family: Helvetica,Arial,FreeSans,sans-serif; font-size: 14px; background: #000; color: #fff;} .iubenda-cs-rationale { max-width: 900px; position: relative; margin: 0 auto; } .iubenda-banner-content > p { font-family: Helvetica,Arial,FreeSans,sans-serif; line-height: 1.5; } .iubenda-cs-close-btn { margin:0; color: #fff; text-decoration: none; font-size: 14px; position: absolute; top: 0; right: 0; border: none; } .iubenda-cs-cookie-policy-lnk { text-decoration: underline; color: #fff; font-size: 14px; font-weight: 900; } </style> <script type="text/javascript"> var _iub = _iub || []; _iub.csConfiguration = {"cookiePolicyInOtherWindow":true,"lang":"en","siteId":1082113,"callback":{"onConsentGiven":"dataLayer.push({'event': 'iubenda_consent_given'});","onConsentFirstGiven":"dataLayer.push({'event': 'iubenda_consent_given'});"},"banner":{"slideDown":false,"applyStyles":false},"cookiePolicyId":15050531}; </script><script type="text/javascript">(function (w, d) { var loader = function () { var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src = "//cdn.iubenda.com/cookie_solution/iubenda_cs.js"; tag.parentNode.insertBefore(s, tag); }; if (w.addEventListener) { w.addEventListener("load", loader, false); } else if (w.attachEvent) { w.attachEvent("onload", loader); } else { w.onload = loader; } })(window, document);</script>
 
-	<!-- End ibuenda privacy code -->
+	
+	<!-- Cookie notice -->
+	<script>
+		$(document).ready(function(){   
+			setTimeout(function () {
+					$("#cookieConsent").fadeIn(200);
+			}, 4000);
+			$("#closeCookieConsent, .cookieConsentOK").click(function() {
+					$("#cookieConsent").fadeOut(200);
+			}); 
+		}); 
+	</script>
 	
 	
 	{% if site.data.settings.advanced_settings.header_js %}
@@ -144,16 +158,16 @@
 	{% include footer.html %}
 
 
-	<!-- Javascript Assets -->
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-	<script src="/js/personal-min.js"></script>
-
 	{% if site.data.settings.advanced_settings.footer_js %}
 	<!-- Extra Footer JS Code -->
 	{{ site.data.settings.advanced_settings.footer_js }}
 	{% endif %}
 
-
+	<div id="cookieConsent">
+			<div id="closeCookieConsent">x</div>
+			This website uses cookies. You can disable this by enabling your browser's Do Not Track feature. <a href="/privacy-policy">More info</a> <!-- <a class="cookieConsentOK">That's Fine</a>-->
+	</div>
+	
 </body>
 
 </html>
