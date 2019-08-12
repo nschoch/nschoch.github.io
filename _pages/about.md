@@ -15,8 +15,9 @@ I provide an independent, one-stop solution for investors looking for an experie
 In addition to offering my commercial mortgage broker services directly, I wrote a do-it-yourself <a href="/project" class="js-no-ajax">apartment financing handbook and tools</a> to help investors get started with financing their 5+ multifamily apartments. 
 
 Check out my experience profile on <a href="https://www.linkedin.com/in/nicholasschoch" target="_blank" rel="noopener">LinkedIn <i class="fab fa-linkedin"></i></a>.
+<br>
 
-<div class="gallery" data-columns="4">
+<div class="gallery--on" data-columns="4">
 	<img src="/images/family-2018.jpg">
 </div>
 

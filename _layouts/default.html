@@ -33,9 +33,7 @@
 	<meta property="og:title" content="{% if page.url == "/" %}{{ site.data.settings.basic_settings.site_title }} – {{ page.title }}{% else %}{{ page.title }} – {{ site.data.settings.basic_settings.site_title }}{% endif %}" />
 	<meta property="og:description" content="{{ page.description }}" />
 	<meta property="og:image" content="{{ site.url }}{{ page.featured_image }}" />
-	<!-- Javascript Assets -->
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-	<script src="/js/personal-min.js"></script>
+
 	{% if site.data.settings.font_settings.font_embed %}
 	<!-- Font Embed Code -->
 	{{ site.data.settings.font_settings.font_embed }}
@@ -59,76 +57,61 @@
 	<!-- Analytics Code -->
 	{{ site.data.settings.advanced_settings.analytics_code }}
 	{% endif %}
-	
-	<!-- Do Not Track Determination-->
-	
-	<script>
-		var dnt = navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack;
-		var doNotTrack = true;
-		if (dnt != "1" && dnt != "yes") {
-			doNotTrack = false;
-		} else {
-			console.debug("Respecting Do-Not-Track, not collecting analytics.");
-		}
-	</script>
 
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-113861429-1"></script>
-	<script>
-	  if (doNotTrack == false) {
-			window.dataLayer = window.dataLayer || [];
-			function gtag(){dataLayer.push(arguments);}
-			gtag('js', new Date());
-
-			gtag('config', 'UA-113861429-1');
-		}
-	</script>
-	<!-- End Google Tag Manager -->
-		  
-	<!-- Facebook Pixel Code -->
-	<script>
-		if (doNotTrack == false) {
-			!function(f,b,e,v,n,t,s)
-			{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-			n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-			if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-			n.queue=[];t=b.createElement(e);t.async=!0;
-			t.src=v;s=b.getElementsByTagName(e)[0];
-			s.parentNode.insertBefore(t,s)}(window, document,'script',
-			'https://connect.facebook.net/en_US/fbevents.js');
-			fbq('init', '238443993433458');
-			fbq('track', 'PageView');
-		}
-	</script>
-	<noscript><img height="1" width="1" style="display:none"
-	  src="https://www.facebook.com/tr?id=238443993433458&ev=PageView&noscript=1"
-	/></noscript>
-	<!-- End Facebook Pixel Code -->
-	
-	<!-- Begin Crisp Chat code -->
-	
-	<script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="126e7a1e-3034-4ec8-a437-c7cb601965fd";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
-	
-	<!-- End Crisp Chat Code -->
-
-	
-	<!-- Cookie notice -->
-	<script>
-		$(document).ready(function(){   
-			setTimeout(function () {
-					$("#cookieConsent").fadeIn(200);
-			}, 4000);
-			$("#closeCookieConsent, .cookieConsentOK").click(function() {
-					$("#cookieConsent").fadeOut(200);
-			}); 
-		}); 
-	</script>
-	
-	
 	{% if site.data.settings.advanced_settings.header_js %}
 	<!-- Extra Header JS Code -->
 	{{ site.data.settings.advanced_settings.header_js }}
 	{% endif %}
+		<!-- Do Not Track Determination-->
+		
+		<script>
+			var dnt = navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack;
+			var doNotTrack = true;
+			if (dnt != "1" && dnt != "yes") {
+				doNotTrack = false;
+			} else {
+				console.debug("Respecting Do-Not-Track, not collecting analytics.");
+			}
+		</script>
+
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-113861429-1"></script>
+		<script>
+			if (doNotTrack == false) {
+				window.dataLayer = window.dataLayer || [];
+				function gtag(){dataLayer.push(arguments);}
+				gtag('js', new Date());
+
+				gtag('config', 'UA-113861429-1');
+			}
+		</script>
+		<!-- End Google Tag Manager -->
+				
+		<!-- Facebook Pixel Code -->
+		<script>
+			if (doNotTrack == false) {
+				!function(f,b,e,v,n,t,s)
+				{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+				n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+				if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+				n.queue=[];t=b.createElement(e);t.async=!0;
+				t.src=v;s=b.getElementsByTagName(e)[0];
+				s.parentNode.insertBefore(t,s)}(window, document,'script',
+				'https://connect.facebook.net/en_US/fbevents.js');
+				fbq('init', '238443993433458');
+				fbq('track', 'PageView');
+			}
+		</script>
+		<noscript><img height="1" width="1" style="display:none"
+			src="https://www.facebook.com/tr?id=238443993433458&ev=PageView&noscript=1"
+		/></noscript>
+		<!-- End Facebook Pixel Code -->
+		
+		<!-- Begin Crisp Chat code -->
+		
+		<script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="126e7a1e-3034-4ec8-a437-c7cb601965fd";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
+		
+		<!-- End Crisp Chat Code -->
 	
 </head>
 
@@ -158,16 +141,31 @@
 	{% include footer.html %}
 
 
+	<!-- Javascript Assets -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	<script src="/js/personal-min.js"></script>
+
 	{% if site.data.settings.advanced_settings.footer_js %}
 	<!-- Extra Footer JS Code -->
 	{{ site.data.settings.advanced_settings.footer_js }}
 	{% endif %}
+		<!-- Cookie notice -->
+		<script>
+			$(document).ready(function(){   
+				setTimeout(function () {
+						$("#cookieConsent").fadeIn(200);
+				}, 4000);
+				$("#closeCookieConsent, .cookieConsentOK").click(function() {
+						$("#cookieConsent").fadeOut(200);
+				}); 
+			}); 
+		</script>
+		<div id="cookieConsent">
+					<div id="closeCookieConsent">x</div>
+					This website uses cookies. You can disable this by enabling your browser's Do Not Track feature. <a href="/privacy-policy">More info</a> <!-- <a class="cookieConsentOK">That's Fine</a>-->
+		</div>
 
-	<div id="cookieConsent">
-			<div id="closeCookieConsent">x</div>
-			This website uses cookies. You can disable this by enabling your browser's Do Not Track feature. <a href="/privacy-policy">More info</a> <!-- <a class="cookieConsentOK">That's Fine</a>-->
-	</div>
-	
+
 </body>
 
 </html>
