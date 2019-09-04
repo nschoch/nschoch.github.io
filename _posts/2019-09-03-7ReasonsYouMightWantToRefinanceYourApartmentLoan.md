@@ -1,7 +1,7 @@
 ---
 title: '7 Reasons You Might Want to Refinance Your Apartment Loan'
 date: 2019-09-03 00:00:00
-description: Many apartment investors don’t like debt, so rather than refinancing, they would prefer to pay off their loans. Why get a new loan when you’d prefer to have no loan? If that describes you, you may want to reconsider. Used wisely, debt is a powerful tool that can help you reach your short- and long-term investment goals. Let’s take a look at six challenges and how refinancing can be a solution. 
+description: Many apartment investors don’t like debt, so rather than refinancing, they would prefer to pay off their loans. Why get a new loan when you’d prefer to have no loan? If that describes you, you may want to reconsider. Used wisely, debt is a powerful tool that can help you reach your short- and long-term investment goals. Let’s take a look at seven challenges and how refinancing can be a solution. 
 featured_image: '/images/crapi-apartments-image.jpg'
 ---
 
