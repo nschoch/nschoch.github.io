@@ -1,0 +1,27 @@
+---
+title: '3 Things to Prepare Before You Sell Your Commercial Property'
+date: 2019-10-02 00:00:00
+description: Things change... your perspective, your appetite for risk, and even your investment criteria. Sometimes the best thing you can do is move forward, and that can mean selling an investment property. When the time comes, you will have to pay off any existing liens before transferring title. For many investors, the biggest lien is their commercial mortgage. But just as you would research and prepare to purchase, you must also prepare when you intend to sell a property. Let’s take a closer look at potential hurdles so you aren’t surprised at close of escrow. 
+featured_image: '/images/apartment-needs-paint.jpeg'
+---
+
+<a href="/assets/pdfs/201910-3ThingsToPrepareBeforeYouSellYourProperty.pdf"  class="js-no-ajax"><i class="fas fa-file-pdf"></i> Printable PDF</a>
+
+
+Things change: your perspective, your appetite for risk, and even your investment criteria. Sometimes the best thing you can do is move forward, and that can mean selling an investment property. When the time comes, you will have to pay off any existing liens before transferring title. For many investors, the biggest lien is their commercial mortgage. But just as you would research and prepare to purchase, you must also prepare when you intend to sell a property. This starts with organizing the paperwork. Are there any prepayment penalties that could cost you at closing? Do you have operating statements and rent rolls ready? Is the property in a condition fit to finance? Let’s take a closer look at potential hurdles so you aren’t surprised at close of escrow.
+
+### Prepayment provisions ###
+
+Review your current loan documents for prepayment penalty language, typically found as part of the promissory note. Many commercial mortgages have prepayment provisions that last for most, if not all, of the fixed rate period. Some have easy to understand step-down language (e.g., 5% year 1, 4%, year 2, and so on). Others have complicated yield maintenance language that require expertise to understand. Larger loans financed through Commercial Mortgage Backed Securities (CMBS) will have defeasance requirements that can be especially onerous. The prepayment cost may be so high that you decide not to sell the property. Imagine learning this after you’ve signed a contract to sell the property. Naturally, you want to avoid being committed to pay your lender a large fee just to payoff your loan in order to sell your property. Get ahead of this by reviewing your existing loan documents for any prepayment provisions. Then confirm your understanding with your lender in writing that way you aren’t surprised by anything in their escrow demand.
+
+### Property financial documents ###
+
+Smart investors perform due diligence to understand what they are buying, including understanding how the property performed over the past few years. This means most buyers will ask the seller for historical operating statements for the past 2-3 years. In addition, buyers want to know about the current tenants, which means they’ll ask the seller for a current rent roll. Even if your buyer doesn’t ask for these documents for their due diligence, the lender financing their purchase of your property will require that the buyer provide them. If you aren’t prepared to provide these documents, you will delay the financing process and ultimately the close of your sale. Before listing your property, generate 12-month trailing operating statements for the past 3-years and a current rent roll. Many lenders will look for year-to-date operating statements if we’re more than 3-months into the calendar year. Having these documents ready will make it easier to list your property and close the sale.
+
+### Property condition ###
+
+Most sellers understand how important property condition is to maximize the market price of their property. Even if your property is functionally sound it might look a little dated and tired. A new paint job and a landscaping upgrade will go a long way to giving your property stronger curb appeal. Not only does this increase the value of your property but it makes it easier to finance for the buyer, which means a faster closing for you. After addressing the appearance, you will also want to address functional items. Some owners defer maintenance or ignore key things like smoke detectors and carbon monoxide detectors in their units. As of 2019, California state law requires water conserving fixtures in apartments. If these items aren’t addressed, it will delay closing and it could negatively affect your price. Remember, that most buyers are financing their apartment purchase. As such, not only do you have to satisfy the buyer that the property is in good condition but also the lender (who is usually pickier). The average lender will scrutinize things like GFCI outlets, smoke detectors, carbon monoxide detectors, railings, and other health & safety items. Most lenders will require that you address these items before funding the loan and allowing your sale to close.
+
+### Key takeaways ### 
+
+Maximize your property value and the ease of sale by cleaning up the property and getting the operating statements ready. Then review your loan documents for any prepayment provisions so you aren’t surprised by the cost of selling your property. These few steps will save you a headache when you go to sell your property and move on to the next investment for your portfolio. 
