@@ -9,8 +9,8 @@ featured_image: '/images/colton-sturgeon-1059840-unsplash.jpg'
 I wrote a short apartment financing handbook to help investors understand and become more comfortable with the apartment financing process. Combine this handbook with my calculators and tools and you’ll be on your way to handling your own apartment financing.
 
 <a 
-	href="/assets/pdfs/NicksApartmentLoanHandbook20190811.pdf" 
+	href="/assets/pdfs/NicksApartmentLoanHandbook20191102.pdf" 
 	onClick="ga('send', 'event', {transport: 'beacon', eventAction: 'click', eventCategory: 'Outbound Link', eventLabel: 'Handbook'})">
-	Nick's Apartment Loan Handbook (11Aug2019)</a>
+	Nick's Apartment Loan Handbook (2Nov2019)</a>
 
 also available on <a href="http://a.co/d/5D3XQEC" target="_blank">Amazon Kindle <i class="fas fa-external-link-alt" aria-hidden="true"></i></a>
