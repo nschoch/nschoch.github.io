@@ -1,6 +1,6 @@
 ---
 title: Commercial mortgage advising
-subtitle: Hourly consulting to answer your commercial mortgage questions
+subtitle: Hourly or project consulting to answer your commercial mortgage questions
 description: Get guidance from institutional experience
 featured_image: /images/daniel-dinuzzo-676370-unsplash.jpg
 permalink: /advising/
@@ -8,27 +8,37 @@ feature_page: true
 ---
 
 ### My approach
-I am available to advise commercial real estate investors as they consider their financing and investment options. I have shifted from a traditional loan broker model to a consultant model. I believe the consultant model is better for the investor. It saves you money since you no longer pay a percentage of the loan amount but instead pay for the time you need. This is especially helpful for investors that already have capital sources and just need an experienced, independent perspective to help them review capital sources, loan terms, process, and documents. 
+I make my 15-years of commercial lending experience available to real estate investors. I offer consulting services to investors helping them evaluate their financing and investment options. I have shifted from a traditional loan broker model to a consultant model. I believe the consultant model is better for the investor. It saves you money since you no longer pay a percentage of the loan amount but instead pay for the time you need. This is especially helpful for investors that already have capital sources and just need an experienced, independent perspective to help them review capital sources, loan terms, process, and documents. My motivation is to serve you as the investor and help you identify possible pitfalls and demystify the complexities in commercial lending. My clients find it invaluable to have an independent consultant on their side to vet the information they are receiving from their lender.
 
 ## Do it yourself...
 
 I wrote a concise apartment financing handbook to help you understand and become more comfortable with the financing process. Combine this handbook with the calculators and tools below and you'll be on your way to handling your own commercial mortgage loan. In addition, I encourage you to read my articles for more information.
 
-### [Apartment Financing Handbook](/project/apartment-handbook)
+#### [Apartment Financing Handbook](/project/apartment-handbook)
 
-### [Calculators & Tools](/project/calculators-tools)
+#### [Articles](/articles)
 
-### [Articles](/articles)
+#### [Calculators & Tools](/project/calculators-tools)
 
 
 ## ...or work with me
-I'm happy to answer your questions and help you build a strategy to finance your purchase or refinance of commercial real estate. I work on a consulting rate so you only pay for the time you need.
+I'm happy to answer your questions and help you build a strategy to finance your purchase or refinance of commercial real estate. I work on an hourly or project basis so you only pay for the time you need.
+
+I am available to help with: 
+
+* Loan sizing and refinance analysis helping you determine if now is a good time to refinance your property
+* Loan request presentation and package preparation that provides lenders with the information needed to give you the best loan terms
+* Cash flow analysis and forecasting
+* Desktop valuation of your property
+* General discussion of your commercial real estate capital needs and investment objectives
 
 Contact me and we'll talk about your needs.
 
-* <i class="fas fa-phone" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;Call or text me (760) 201-6758
-* <i class="fas fa-envelope" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;Email me at <a href="mailto:nick@nickschoch.com?subject=Commercial mortgage advising" target="_blank" rel="noopener">nick@nickschoch.com</a>
-* <a href="https://m.me/the.nick.schoch" target="_blank" rel="noopener"><i class="fab fa-facebook-messenger"></i>&nbsp;&nbsp;&nbsp;&nbsp;Instant message me on Facebook</a>
+<i class="fas fa-phone" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;Call or text me (760) 201-6758
+
+<i class="fas fa-envelope" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;Email me at <a href="mailto:nick@nickschoch.com?subject=Commercial mortgage advising" target="_blank" rel="noopener">nick@nickschoch.com</a>
+
+<a href="https://m.me/the.nick.schoch" target="_blank" rel="noopener"><i class="fab fa-facebook-messenger"></i>&nbsp;&nbsp;&nbsp;&nbsp;Instant message me on Facebook</a>
 
 <!---
 
