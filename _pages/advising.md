@@ -1,11 +1,14 @@
 ---
 title: Commercial mortgage advising
-subtitle: Commercial mortgage advising
+subtitle: Hourly consulting to answer your commercial mortgage questions
 description: Get guidance from institutional experience
 featured_image: /images/daniel-dinuzzo-676370-unsplash.jpg
 permalink: /advising/
 feature_page: true
 ---
+
+### My approach
+I am available to advise commercial real estate investors as they consider their financing and investment options. I have shifted from a traditional loan broker model to a consultant model. I believe the consultant model is better for the investor. It saves you money since you no longer pay a percentage of the loan amount but instead pay for the time you need. This is especially helpful for investors that already have capital sources and just need an experienced, independent perspective to help them review capital sources, loan terms, process, and documents. 
 
 ## Do it yourself...
 
@@ -26,9 +29,6 @@ Contact me and we'll talk about your needs.
 * <i class="fas fa-phone" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;Call or text me (760) 201-6758
 * <i class="fas fa-envelope" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;Email me at <a href="mailto:nick@nickschoch.com?subject=Commercial mortgage advising" target="_blank" rel="noopener">nick@nickschoch.com</a>
 * <a href="https://m.me/the.nick.schoch" target="_blank" rel="noopener"><i class="fab fa-facebook-messenger"></i>&nbsp;&nbsp;&nbsp;&nbsp;Instant message me on Facebook</a>
-
-### My approach
-I am available to advise commercial real estate investors as they consider their financing and investment options. I have shifted from a traditional loan broker model to a consultant model. This saves you money as you no longer pay a percentage of the loan amount but instead pay for the time you need. This is especially helpful for investors that already have capital sources and just need an experienced, independent perspective to help them review capital sources, loan terms, process, and documents. 
 
 <!---
 
