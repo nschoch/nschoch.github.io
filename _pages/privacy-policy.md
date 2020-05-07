@@ -26,5 +26,5 @@ I last updated this policy on July 25, 2019.
 #### Do you use cookies?
 Yes this site uses cookies for the visitor analytics mentioned above. If you turn on your browser's Do Not Track feature, this site will not generate cookies in your browser.
 
-### Brokering Commercial Real Estate Loans
-I protect my client data by storing it only as long as I need it on encrypted servers (Google). When I share client data with lenders, I insist they use secure methods to protect your data. This methods include encrypted email and secure file sharing sites like Google Drive and Dropbox.
+### Client Information
+I protect my client data by storing it only as long as I need it on encrypted servers (Microsoft Azure).
