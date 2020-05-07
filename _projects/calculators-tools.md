@@ -1,8 +1,8 @@
 ---
 title: 'Calculators and Tools'
-subtitle: 'Free worksheets to help you invest in commercial real estate'
+subtitle: 'Free worksheets to help you finance your commercial real estate'
 date: 2019-10-18 00:00:00
-description: Combine my handbook with these calculators and tools and you’ll be on your way to handling your own apartment financing.
+description: Combine my handbook with these calculators and tools and you’ll be on your way to handling your own financing.
 featured_image: '/images/excelLogo.png'
 ---
 

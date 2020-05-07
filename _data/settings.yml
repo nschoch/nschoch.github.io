@@ -8,8 +8,8 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Apartment Loans'
-      url: '/apartment-loans/'
+    - title: 'Advising Services'
+      url: '/advising/'
     - title: 'Articles'
       url: '/articles/'
     - title: 'Free Guide'
@@ -22,7 +22,7 @@ menu_settings:
       url: '/contact/'
 
 footer_settings:
-  footer_tagline: Independent commercial mortgage broker
+  footer_tagline: Independent commercial mortgage advisor
 
 hero_settings:
   overlay_opacity: 0.8
