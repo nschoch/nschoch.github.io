@@ -1,6 +1,6 @@
 ---
 title: About Nick
-subtitle: Independent commercial mortgage advisor with 14-years of CRE lending experience
+subtitle: Independent commercial mortgage advisor with 15-years of commercial lending experience
 description: This page describes my background
 featured_image: /images/daniel-dinuzzo-676370-unsplash.jpg
 permalink: /about/
@@ -10,7 +10,7 @@ permalink: /about/
 
 I am a San Diego native that lives in North Park with my wife and three children.
 
-I provide an independent perspective for investors looking for experienced advice about financing their commercial real estate. I have 14-years of experience in commercial real estate lending, financing apartments, manufactured housing communities, retail, industrial, and office buildings.
+I provide an independent perspective for investors looking for an experienced perspective commercial real estate investing. I have 15-years of experience in commercial real estate lending, financing apartments, manufactured housing communities, retail, industrial, and office buildings. I spent most of this time working for a large regional bank where I underwrote bridge, construction, and permanent loan facilities for private and public real estate investors. In addition, I worked out troubled loans during the 2008 financial crisis where worked with clients on alternative repayment strategies.
 
 In addition to advising investors, I wrote a do-it-yourself <a href="/project" class="js-no-ajax">apartment financing handbook and tools</a> to help investors get started with financing their 5+ unit multifamily apartments. 
 
