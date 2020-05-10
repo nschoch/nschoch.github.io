@@ -1,14 +1,14 @@
 ---
 title: Commercial mortgage advising
 subtitle: Hourly or project consulting to answer your commercial mortgage questions
-description: Get guidance from institutional experience
+description: Tap into my 15-years of commercial lending experience to answer your commercial real estate financing and investing questions.
 featured_image: /images/daniel-dinuzzo-676370-unsplash.jpg
 permalink: /advising/
 feature_page: true
 ---
 
 ### My approach
-I make my 15-years of commercial lending experience available to real estate investors. I offer consulting services to investors helping them evaluate their financing and investment options. I have shifted from a traditional loan broker model to a consultant model. I believe the consultant model is better for the investor. It saves you money since you no longer pay a percentage of the loan amount but instead pay for the time you need. This is especially helpful for investors that already have capital sources and just need an experienced, independent perspective to help them review capital sources, loan terms, process, and documents. My motivation is to serve you as the investor and help you identify possible pitfalls and demystify the complexities in commercial lending. My clients find it invaluable to have an independent consultant on their side to vet the information they are receiving from their lender.
+I make my 15-years of commercial lending experience available to real estate investors looking for answers to their commercial real estate financing and investment questions. I shifted my approach from a traditional loan broker model to a consultant model. I believe the consultant model is better for the investor. It saves you money since you no longer pay a percentage of the loan amount but instead pay for the time you need. This is especially helpful for investors that already have capital sources and just need an experienced, independent perspective to help them review capital sources, loan terms, process, and documents. My motivation is to serve you as the investor and help you identify possible pitfalls and demystify the complexities in commercial lending. My clients find it invaluable to have an independent consultant on their side to vet the information they are receiving from their lender.
 
 ## Do it yourself...
 
