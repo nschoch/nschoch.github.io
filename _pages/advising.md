@@ -1,5 +1,5 @@
 ---
-title: Commercial mortgage advising
+title: Commercial real estate finance advising
 subtitle: Hourly or project consulting to answer your commercial real estate financing questions
 description: Tap into my 15-years of commercial lending experience to answer your commercial real estate financing and investing questions.
 featured_image: /images/daniel-dinuzzo-676370-unsplash.jpg
