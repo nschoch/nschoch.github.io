@@ -30,6 +30,7 @@ I am available to help with:
 * Loan request presentation and package preparation that provides lenders with the information needed to give you the best loan terms
 * Cash flow analysis and forecasting
 * Desktop valuation of your property
+* Developing alternative resolution strategies and restructures on troubled loans
 * General discussion of your commercial real estate capital needs and investment objectives
 
 Contact me and we'll talk about your needs.
