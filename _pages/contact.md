@@ -11,8 +11,6 @@ Note: I filter my calls due to the number of spam calls I receive, so please lea
 
 <i class="fas fa-envelope" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;Email me at <a href="mailto:nick@nickschoch.com?subject=Apartment Loan" target="_blank" rel="noopener">nick@nickschoch.com</a>
 
-<a href="https://m.me/the.nick.schoch" target="_blank" rel="noopener"><i class="fab fa-facebook-messenger"></i>&nbsp;&nbsp;&nbsp;&nbsp;Instant message me on Facebook</a>
-
 Or you can use the form below:
 
 {% include contact-form.html %}
