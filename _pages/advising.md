@@ -8,7 +8,7 @@ feature_page: true
 ---
 
 ### My approach
-I make my 15-years of commercial lending experience available to real estate investors, financial institutions, and other professionals looking for answers to their commercial real estate financing and investment questions. This is especially helpful for investors that already have capital sources and just need an experienced, independent perspective to help them review capital sources, loan terms, and process. My motivation is to help investors who want to finance their own properties.
+I make my 15-years of commercial lending experience available to real estate investors looking to answer their commercial real estate financing and investment questions. This is especially helpful for investors that are comfortable working with lenders and just need an experienced, independent perspective on capital sources, loan terms, and process. My motivation is to help investors who want to finance their own properties.
 
 ## Do it yourself...
 
@@ -27,13 +27,12 @@ I'm happy to answer your questions and help you build a strategy to finance your
 I am available to help with: 
 
 * Loan sizing and refinance analysis helping you determine if now is a good time to refinance your property
-* Loan request presentation and package preparation that provides lenders with the information needed to give you the best loan terms
-* Cash flow analysis and forecasting
+* Pointing you in the right direction to find a lender for your property
 * Desktop valuation of your property
 * Developing alternative resolution strategies and restructures for troubled loans
 * General discussion of your commercial real estate capital needs and investment objectives
 
-Contact me and we'll talk about your needs.
+Contact me and we'll talk about your needs. The initial 30-minute consultation is free.
 
 <i class="fas fa-phone" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;Call or text me (760) 201-6758
 

@@ -21,7 +21,7 @@ Enable your browser's "Do Not Track" feature and my site will not run the analyt
 I have no way to inform individual users of changes to the policy because I do not collect information on individual visitors. Visitors will have to check this page for changes.
 
 #### What is the effective date of this policy?
-I last updated this policy on September 27, 2020.
+I last updated this policy on June 7, 2021.
 
 #### Do you use cookies?
 Yes this site uses cookies for the visitor analytics mentioned above. If you turn on your browser's Do Not Track feature, this site will not generate cookies in your browser.
