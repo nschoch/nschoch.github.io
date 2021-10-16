@@ -32,7 +32,7 @@ I am available to help with:
 * Developing alternative resolution strategies and restructures for troubled loans
 * General discussion of your commercial real estate capital needs and investment objectives
 
-Contact me and we'll talk about your needs. The initial 30-minute consultation is free.
+Contact me and we'll talk about your needs at no cost.
 
 <i class="fas fa-phone" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;Call or text me (760) 201-6758
 
