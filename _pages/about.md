@@ -18,7 +18,7 @@ Check out my experience profile on <a href="https://www.linkedin.com/in/nicholas
 <br><br>
 
 <div class="gallery--on" data-columns="4">
-	<img src="/images/FamilyPic2019.jpg">
+	<img src="/images/2020FamilyPhoto.png" width="500">
 </div>
 
 
