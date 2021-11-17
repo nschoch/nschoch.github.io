@@ -7,12 +7,9 @@ permalink: /advising/
 feature_page: true
 ---
 
-### My approach
-I make my 15-years of commercial lending experience available to real estate investors looking to answer their commercial real estate financing and investment questions. This is especially helpful for investors that are comfortable working with lenders and just need an experienced, independent perspective on capital sources, loan terms, and process. My motivation is to help investors who want to finance their own properties.
-
 ## Do it yourself...
 
-I wrote a concise apartment financing handbook to help you understand and become more comfortable with the financing process. Combine this handbook with the calculators and tools below and you'll be on your way to handling your own commercial mortgage loan. In addition, I encourage you to read my articles for more information.
+I wrote a concise apartment financing handbook to help investors understand and become more comfortable with the commercial mortgage process. Combine this handbook with the calculators and tools below and you'll be on your way to handling your own commercial mortgage loan. In addition, I encourage you to read my articles for more information.
 
 #### [Apartment Financing Handbook](/project/apartment-handbook)
 
@@ -21,18 +18,7 @@ I wrote a concise apartment financing handbook to help you understand and become
 #### [Calculators & Tools](/project/calculators-tools)
 
 
-## ...or get a little help
-I'm happy to answer your questions and help you build a strategy to finance your purchase or refinance of commercial real estate.
-
-I am available to help with: 
-
-* Loan sizing and refinance analysis helping you determine if now is a good time to refinance your property
-* Pointing you in the right direction to find a lender for your property
-* Desktop valuation of your property
-* Developing alternative resolution strategies and restructures for troubled loans
-* General discussion of your commercial real estate capital needs and investment objectives
-
-Contact me and we'll talk about your needs at no cost.
+## Questions
 
 <i class="fas fa-phone" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;Call or text me (760) 201-6758
 

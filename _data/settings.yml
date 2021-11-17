@@ -8,8 +8,6 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Advice'
-      url: '/advising/'
     - title: 'Articles'
       url: '/articles/'
     - title: 'Free Guide'
@@ -22,7 +20,7 @@ menu_settings:
       url: '/contact/'
 
 footer_settings:
-  footer_tagline: Commercial Mortgage Advisor
+  footer_tagline: Nick Schoch
 
 hero_settings:
   overlay_opacity: 0.8
