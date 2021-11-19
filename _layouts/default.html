@@ -65,6 +65,18 @@
 		<!-- Do Not Track Determination-->
 		
 		<script>
+
+
+			if(window.location.href == "https://www.nickschoch.com/" || window.location.href == "https://nickschoch.com/")
+			{
+				console.debug("root");
+				window.location.replace("https://www.linkedin.com/in/nicholasschoch/");
+			}
+			else 
+			{
+				console.debug("not root");
+			}
+
 			var dnt = navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack;
 			var doNotTrack = true;
 			if (dnt != "1" && dnt != "yes") {
