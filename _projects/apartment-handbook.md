@@ -11,6 +11,6 @@ I wrote a short apartment financing handbook to help investors understand and be
 <a 
 	href="/assets/pdfs/NicksApartmentLoanHandbook20220421.pdf" 
 	onClick="ga('send', 'event', {transport: 'beacon', eventAction: 'click', eventCategory: 'Outbound Link', eventLabel: 'Handbook'})">
-	Nick's Apartment Loan Handbook (27May2021)</a>
+	Nick's Apartment Loan Handbook (21April2022)</a>
 
 also available on <a href="https://www.amazon.com/dp/B07JDFHC2Q/ref=cm_sw_r_cp_ep_dp_vcW6BbVRJ2MJB" target="_blank">Amazon Kindle <i class="fas fa-external-link-alt" aria-hidden="true"></i></a>
