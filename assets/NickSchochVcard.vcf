@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//macOS 14.2.1//EN
+N:Schoch;Nick;;;
+FN:Nick Schoch
+ORG:U.S. Bank Commercial Mortgage Division Sales Manager;
+EMAIL;type=INTERNET;type=WORK;type=pref:nick.schoch@usbank.com
+TEL;type=CELL;type=VOICE;type=pref:(760) 201-6758
+ADR;type=HOME;type=pref:;;;San Diego;CA;;
+END:VCARD
